@@ -1,5 +1,5 @@
 # Orleans
-Recommender Systems with `numpy`.
+Recommender Systems with `numpy` & `scipy`.
 
 ![orleans](/wallpaper.jpg)
 
