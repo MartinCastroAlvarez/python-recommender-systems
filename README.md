@@ -9,5 +9,5 @@ Recommender Systems with `numpy` & `scipy`.
 
 ## Jupyter Notebooks
 - [Memory Based Recommender Systems](./memorybased.ipynb)
-
-
+- [Model Based Recommender Systems](./modelbased.ipynb)
+- [Condorcet Jury Theorem](./condorcetjury.ipynb)
