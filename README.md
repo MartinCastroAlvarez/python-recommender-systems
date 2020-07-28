@@ -8,6 +8,6 @@ Recommender Systems with `numpy` & `scipy`.
 - [numpy](https://numpy.org/)
 
 ## Jupyter Notebooks
-- [Memory Based Recommender Systems](./memorybased.ipynb)
-- [Model Based Recommender Systems](./modelbased.ipynb)
 - [Condorcet Jury Theorem](./condorcetjury.ipynb)
+- [Memory Based Recommender Systems](./memorybased.ipynb)
+- [Dimensionality Reduction](./dimensionreduction.ipynb)
