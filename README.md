@@ -11,3 +11,4 @@ Recommender Systems with `numpy` & `scipy`.
 - [Condorcet Jury Theorem](./condorcetjury.ipynb)
 - [Memory Based Recommender Systems](./memorybased.ipynb)
 - [Dimensionality Reduction](./dimensionreduction.ipynb)
+- [Content Based Recommender Systems](./contentbased.ipynb)
